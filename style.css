@@ -2,6 +2,8 @@
 box-sizing: border-box;
 font-family: hanken-bold;
 }
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
 @font-face{
     font-family: hanken-bold;
     src: url(./assets/fonts/static/HankenGrotesk-Bold.ttf);
